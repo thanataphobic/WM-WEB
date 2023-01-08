@@ -3,21 +3,3 @@ PLEASE IGNORE THIS TEXT FILE THIS IS FOR THINGS I NEED TO REMEMBER
 
 
 
-DISCORD LINK\\\
-<div class="discord"><a href="discord.gg/wickedcorporation"><img src="https://cdn-icons-png.flaticon.com/128/5968/5968756.png"></a></div>
-
-/
-
-THE MAIN IMAGE FOR FADING\\\\
-<img class="thumbnail thumbnail-wrapper" src="https://tr.rbxcdn.com/28f737da055a78836dbf271fe2edb798/768/432/Image/Png">
-
-/
-
-THE MAIN IMAGE SIZING\\\\
-.img-wrapper {
-    width: 100%;
-    height: 100%;
-    object-fit: fill;
-    margin: -1px;
-    display: grid;
-}

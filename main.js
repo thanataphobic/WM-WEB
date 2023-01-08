@@ -12,8 +12,8 @@
 
 // Width of the sidenav and margin
 function openNav() {
-    document.getElementById("sideNav").style.width = "250px";
-    document.getElementById("main").style.marginLeft = "250px";
+    document.getElementById("sideNav").style.width = "150px";
+    document.getElementById("main").style.marginLeft = "150px";
 }
 // width of the sidebar when closed
 function closeNav() {
